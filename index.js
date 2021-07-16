@@ -1,3 +1,3 @@
-console.log('** Administration Hotel **');
-var menu = require('./presentation.js');
-menu.lireChaine();
+console.log('****Administration Hotel ****');
+var presentation = require('./presentation.js');
+presentation.menu();
